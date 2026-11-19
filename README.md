@@ -18,6 +18,6 @@ I'm building practical, self-directed examples focused on customer operations an
 - **Billing Support Portfolio** — a fictional SaaS billing support exercise with sample data, investigation notes, escalation templates, and introductory PostgreSQL queries.
 
 ## Tools and systems
-Zendesk, Retool: an internal CX investigation tool, Sigma, Column Bank, Modern Treasury, Fullstory, Quiq Messaging, Notion, Braze, Devin, Claude, ChatGPT, Gemini
+Zendesk, Retool: an internal CX investigation tool, Sigma, Column Bank, Modern Treasury, Fullstory, Quiq Messaging, Notion, Braze, Devin, Claude
 
 *The portfolio materials are independent learning exercises using synthetic data. They do not contain customer, employer, or production-system information.*
